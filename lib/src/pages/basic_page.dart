@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-class Basicpage extends StatelessWidget {
+class BasicPage extends StatelessWidget {
   final titleStyle = TextStyle(fontSize: 20.0, fontWeight: FontWeight.bold);
   final subtitleStyle = TextStyle(
       fontSize: 18.0, fontWeight: FontWeight.normal, color: Colors.grey);
